@@ -28,7 +28,7 @@ Switched to branch 'exercise2'
 3. Use `git reset` to undo the staging of your file.
 4. Stash your change with a unique stash message, then unstash and apply it back to the `exercise2` branch.
 
-## Solutions
+## Solutions =>
 
 ### Step 1 - View the Contents of the Staging Area
 
