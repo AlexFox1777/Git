@@ -14,6 +14,7 @@ $> git checkout exercise9
 Switched to branch 'exercise9'
 ```
 
+
 ### Exercise
 1. Use `git grep` to search for a string in your git repo. Try using arguments for `git grep` to print line numbers and group results by file. Use the `--cached` option to see the difference between grepping your working area and your staging area.
 2. Try to cherry-pick a commit from one branch into the `exercise9` branch.
