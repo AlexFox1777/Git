@@ -201,3 +201,5 @@ Date:   Wed Oct 4 19:01:12 2017 -0700
 
 Excellent - with a simple test - git has helped us figure out that the offending string was introduced in the `331024e...` commit. We can even perform manual tests to see if our commit is good - like loading a webpage. `bisect` is even more powerful with automated tests. By using `git bisect run` with an automated test - such as a unit test or even a simple shell script - we can quickly and easily find bugs introduced into codebases with complex history. 
 #### End of Example Nine
+
+
