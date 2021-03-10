@@ -157,6 +157,7 @@ curl -i -H 'Authorization: token <YOUR_TOKEN>' \
 
 ### Bonus Exercise 2
 
+
 If you're a pro at using APIs, and know basic HTML and CSS, you can give the last bonus exercise a try.
 
 Create a simple webpage that displays your git profile information, as well as some simple statistics.
