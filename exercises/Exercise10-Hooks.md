@@ -12,6 +12,7 @@ $> git checkout exercise10
 Switched to branch 'exercise10'
 ```
 
+
 Note: This pre-commit hook script will only work in a Bash environment. Windows users can follow along but the script my not work as expected.
 
 ### Exercise
