@@ -6,6 +6,7 @@
 
 ### Overview
 
+
 In this exercise, we'll use the GitHub REST API to get information about ourselves, our repositories, and other repositories on GitHub.
 
 **Note:** GitHub allows 60 unauthenticated requests per hour. If you hit your limit, and would like to keep exploring proceed to **Bonus Exercise 1** to learn how to create an API token. 
