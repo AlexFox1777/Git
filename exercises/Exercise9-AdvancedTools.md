@@ -6,6 +6,7 @@
 ### Overview
 In this exercise, we'll take a look at some of the advanced features of `git grep`, we'll learn how to "cherry-pick" commits, then we'll take a look at `git blame` and `git bisect`.
 
+
 ## Prerequisite
 You should have the [`advanced-git-exercises`](https://github.com/nnja/advanced-git-exercises)  repository cloned locally. Checkout the `exercise9` branch to begin:
 
