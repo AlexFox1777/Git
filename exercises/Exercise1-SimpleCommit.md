@@ -161,8 +161,3 @@ $> tree .git/refs
 ```
 
 #### End of Exercise One
-
-
-
-
-
