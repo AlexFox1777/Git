@@ -243,3 +243,4 @@ This is a test of the emergency git-casting system.
 This time, our merge still failed, but the conflict was resolved automatically, per the line that says `Resolved 'hello.txt' using previous resolution.` There is no need to resolve the conflict manually, as we can see that our `hello.txt` now correctly says "Hola Mundo!" All we need to do is stage `hello.txt` and commit it.
 
 #### End of Exercise Four
+
