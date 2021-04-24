@@ -1,4 +1,5 @@
 # Advanced Git
+
 ## Exercise One - Under The Hood of a Simple Commit
 
 ### Overview
