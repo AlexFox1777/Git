@@ -56,3 +56,4 @@ $> git commit -m "Adding a new test script"
 Success! This was a very simple example, but it's easy to see how this can be extended to do proper linting or checking of code - or even run unit tests - before commit, to decrease the chances of bad code being checked-in.
 
 #### End of Exercise Ten 
+
