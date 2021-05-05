@@ -169,6 +169,3 @@ Include:
  - Your GitHub bio
  - The amount of followers you have
  - Your most 'starred' repo
- 
- 
- 
