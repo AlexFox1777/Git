@@ -10,6 +10,7 @@ In this exercise, we'll take a look at some of the advanced features of `git gre
 ## Prerequisite
 You should have the [`advanced-git-exercises`](https://github.com/nnja/advanced-git-exercises)  repository cloned locally. Checkout the `exercise9` branch to begin:
 
+
 ```
 $> git checkout exercise9
 Switched to branch 'exercise9'
