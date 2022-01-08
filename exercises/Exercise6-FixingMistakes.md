@@ -262,3 +262,5 @@ $> git revert 713f6a1
 There, we've successfully brought `hello.template` back from the dead, and we have a revert commit to show others exactly what happened. Plus, we didn't have to change history, so this is a good method to use if the changes you want to revert have already been pushed to your origin.
 
 #### End of Exercise Six
+
+
